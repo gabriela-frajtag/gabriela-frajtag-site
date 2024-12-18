@@ -1,0 +1,21 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background: linear-gradient(180deg, #020024, #00d4ff);
+  color: white;
+  text-align: center;
+}
+
+.lang-switcher button {
+  margin: 10px;
+  padding: 5px 10px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.lang-switcher button:hover {
+  background-color: purple;
+}
