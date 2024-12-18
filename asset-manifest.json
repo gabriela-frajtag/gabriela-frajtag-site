@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gabriela-frajtag-site/static/css/main.41081f4e.css",
+    "main.js": "/gabriela-frajtag-site/static/js/main.bcfa8379.js",
+    "static/js/422.386bd28a.chunk.js": "/gabriela-frajtag-site/static/js/422.386bd28a.chunk.js",
+    "index.html": "/gabriela-frajtag-site/index.html",
+    "main.41081f4e.css.map": "/gabriela-frajtag-site/static/css/main.41081f4e.css.map",
+    "main.bcfa8379.js.map": "/gabriela-frajtag-site/static/js/main.bcfa8379.js.map",
+    "422.386bd28a.chunk.js.map": "/gabriela-frajtag-site/static/js/422.386bd28a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41081f4e.css",
+    "static/js/main.bcfa8379.js"
+  ]
+}
